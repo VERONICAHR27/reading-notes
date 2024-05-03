@@ -17,11 +17,11 @@ El simbolo para crear un encabezado es: **#**
 
 EJEMPLOS:  
 
-. #ENCABEZADO 1
-. ##ENCABEZADO 2
-. ###ENCABEZADO 3
-. ####ENCABEZADO 4
-. ##### ENCABEZADO 5
+.#ENCABEZADO 1
+.##ENCABEZADO 2
+.###ENCABEZADO 3
+.####ENCABEZADO 4
+.##### ENCABEZADO 5
 `
 **¿Cuántos necesitas para crear el título más grande?**
 **¿Cuántos necesitas para crear el título más pequeño?**
