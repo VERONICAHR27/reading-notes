@@ -11,9 +11,9 @@
 ![MARKDOWN|50](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnn-M9uYQX_I7z4cMpfBoGYVQfCO56sy2E2ZguPCEgDA&s)
 ### Markdown es una herramienta y tambien considerada un lenguaje para escribir de forma sencilla y tenga un diseño legible, esto fue creado en el 2004 por ***John Gruber***
 ## **¿Por qué utilizamos Markdown?**
-### Utilizamos Mardown por que es **acesible** para cualquier dispositivo y tambien su diseño es **legible** 
+_Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambien su diseño es_**legible** 
 ## **¿Qué símbolo creará un encabezado en Markdown?**
-### El simbolo para crear un encabezado es: **#**
+El simbolo para crear un encabezado es: **#**
 #### EJEMPLOS:
 . # ENCABEZADO 1
 . ## ENCABEZADO 2
