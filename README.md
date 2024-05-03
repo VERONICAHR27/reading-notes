@@ -36,7 +36,7 @@ EJEMPLOS:
 ## **¿Cómo se crea un vínculo con Markdown?**
 _El vinculo se crea de la siguiente manera_ [VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
-_SINTAXIS:_[nombre](link)
+_SINTAXIS:[nombre](link)_
 ## **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Los tres simboles es:
 * "-"
