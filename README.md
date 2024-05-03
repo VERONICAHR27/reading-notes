@@ -15,13 +15,14 @@ _Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambi
 ## **¿Qué símbolo creará un encabezado en Markdown?**
 _El simbolo para crear un encabezado es:_ **#**  
 _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
-+ ENCABEZADO1 #
-+ ENCABEZADO2 ##
-+ ENCABEZADO3 ###
+    + ENCABEZADO1 #
+    + ENCABEZADO2 ##
+    + ENCABEZADO3 ###
 + **¿Cuántos necesitas para crear el título más grande?**
     + _El simbolo que se necesita es de un #_
 + **¿Cuántos necesitas para crear el título más pequeño?**
     + _El simbolo que se necesita es de 6 ######_
+      
 ## **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
 1. Texto para poner en **NEGRITA** se utiliza: dos ** al inicio y al final del texto
 
