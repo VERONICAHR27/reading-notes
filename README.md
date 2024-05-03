@@ -16,11 +16,14 @@ _Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambi
 El simbolo para crear un encabezado es: **#**  
 
 EJEMPLOS:  
-1. # ENCABEZADO 1
-2. ## ENCABEZADO 2
-3. ### EN CABEZADO 3
-4. #### ENCABEZADO 4
-5. ##### ENCABEZADO 5
+*## ENCABEZADO
+*
+
+1. #ENCABEZADO 1
+2. ##ENCABEZADO 2
+3. ###ENCABEZADO 3
+4. ####ENCABEZADO 4
+5. #####ENCABEZADO 5
 `
 **¿Cuántos necesitas para crear el título más grande?**
 **¿Cuántos necesitas para crear el título más pequeño?**
