@@ -25,15 +25,15 @@ EJEMPLOS:
 
 ## **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
 1. Texto para poner en **NEGRITA** se utiliza:
-   + **EJEMPLO NEGRITA**
+   "**EJEMPLO NEGRITA**"
 2. Texto para poner en _CURSIVA_ se utiliza:
-   + _EJEMPLO CURSIVA_
+   "_EJEMPLO CURSIVA_"
 3. Texto para poner en **negrita** y _cursiva_
    
 ## **¿Cómo se crea un vínculo con Markdown?**
 
 ## **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Los tres simboles es:
-* -
-* *
-* +
+* "-"
+* "*"
+* "+"
