@@ -8,7 +8,7 @@
 
 # Read 01: Aprendiendo Markdown
 1. **¿Qué es Markdown?**
-### Markdown es una herramienta y tambien considerada un lenguaje para escribir de forma sencilla y tenga un diseño legible, esto fue creado en el 2004 por ***John Gruber***
+. Markdown es una herramienta y tambien considerada un lenguaje para escribir de forma sencilla y tenga un diseño legible, esto fue creado en el 2004 por ***John Gruber***
 ![MARKDOWN|50](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnn-M9uYQX_I7z4cMpfBoGYVQfCO56sy2E2ZguPCEgDA&s)
 
 ## **¿Por qué utilizamos Markdown?**
