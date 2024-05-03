@@ -11,18 +11,16 @@
 ![MARKDOWN|50](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnn-M9uYQX_I7z4cMpfBoGYVQfCO56sy2E2ZguPCEgDA&s)
 ### Markdown es una herramienta y tambien considerada un lenguaje para escribir de forma sencilla y tenga un diseño legible, esto fue creado en el 2004 por ***John Gruber***
 ## **¿Por qué utilizamos Markdown?**
-_Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambien su diseño es_**legible** 
+_Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambien su diseño es_ **legible** 
 ## **¿Qué símbolo creará un encabezado en Markdown?**
-El simbolo para crear un encabezado es: **#**  
-
+_El simbolo para crear un encabezado es:_ **#**  
 EJEMPLOS:  
-* "## ENCABEZADO1"
-* "## ENCABEZADO 2"
-*### ENCABEZADO 3
-*#### ENCABEZADO 4
-+##### ENCABEZADO 5
-`
-**¿Cuántos necesitas para crear el título más grande?**
+* ENCABEZADO1 ##
+* ENCABEZADO2 ##
+* ENCABEZADO3 ###
+* ENCABEZADO4 ####
+## **¿Cuántos necesitas para crear el título más grande?**
+
 **¿Cuántos necesitas para crear el título más pequeño?**
 **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
 Texto para poner en **NEGRITA** se utiliza:
