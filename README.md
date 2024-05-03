@@ -31,10 +31,9 @@ _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
    
        __EJEMPLO CURSIVA__
 5. Texto para poner en **negrita** y _cursiva_ se utiliza:
-   
-       ***EJEMPLO NEGRITA Y CURSIVA***
-       _**EJEMPLO NEGRITA Y CURSIVA**_
-       ___EJEMPLO NEGRITA Y CURSIVA___
++ *** EJEMPLO NEGRITA Y CURSIVA***
++ _** EJEMPLO NEGRITA Y CURSIVA**_
++ ___ EJEMPLO NEGRITA Y CURSIVA___
    
 ## **¿Cómo se crea un vínculo con Markdown?**
 _El vinculo se crea de la siguiente manera_ [VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
