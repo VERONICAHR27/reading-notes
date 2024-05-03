@@ -22,6 +22,7 @@ _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
         + _El simbolo que se necesita es de un #_
     + **¿Cuántos necesitas para crear el título más pequeño?**
         + _El simbolo que se necesita es de 6 ######_
+
 ## **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
 1. Texto para poner en **NEGRITA** se utiliza: dos ** al inicio y al final del texto
 
@@ -38,7 +39,7 @@ _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
 ## **¿Cómo se crea un vínculo con Markdown?**
 _El vinculo se crea de la siguiente manera_ [VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
-SINTAXIS➡[nombre](link de la pagina)"
+SINTAXIS➡ Dentro de este simbolo **[]** ingresar nombre del vinculo y a continuacion el simbolo **()** donde va el link del vinculo" []()
 ## **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Los tres simboles es:
 + "-"
