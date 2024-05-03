@@ -38,10 +38,11 @@ _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
    
 ## **¿Cómo se crea un vínculo con Markdown?**
 _El vinculo se crea de la siguiente manera_ [VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
 SINTAXIS🔽
     [nombre](link de la pagina)
 ## **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Los tres simboles es:
-* "-"
-* "*"
-* "+"
+    -
+    +
+    *
