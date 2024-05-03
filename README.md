@@ -24,11 +24,12 @@ EJEMPLOS:
 ## **¿Cuántos necesitas para crear el título más pequeño?**
 
 ## **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
-1. Texto para poner en **NEGRITA** se utiliza:
-   "**EJEMPLO NEGRITA**"
-2. Texto para poner en _CURSIVA_ se utiliza:
-   "_EJEMPLO CURSIVA_"
-3. Texto para poner en **negrita** y _cursiva_
+1. Texto para poner en **NEGRITA** se utiliza: dos ** al inicio y al final del texto
+2. Texto para poner en _CURSIVA_ se utiliza: dos __ al inicio y al final del texto
+3. Texto para poner en **negrita** y _cursiva_ se utiliza:
+   + *** al inicio y al final del texto
+   + _** al inicio y al final del texto**_
+   + ___ EJEMPLO NEGRITA Y CURSIVA___
    
 ## **¿Cómo se crea un vínculo con Markdown?**
 
