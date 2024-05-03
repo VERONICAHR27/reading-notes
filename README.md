@@ -15,7 +15,8 @@ _Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambi
 ## **¿Qué símbolo creará un encabezado en Markdown?**
 El simbolo para crear un encabezado es: **#**  
 
-EJEMPLOS:
+EJEMPLOS:  
+
 . #ENCABEZADO 1
 . ##ENCABEZADO 2
 . ###ENCABEZADO 3
