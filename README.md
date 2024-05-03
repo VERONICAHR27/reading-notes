@@ -30,7 +30,7 @@ EJEMPLOS:
    + __ EJEMPLO CURSIVA__
 5. Texto para poner en **negrita** y _cursiva_ se utiliza:
    + *** EJEMPLO NEGRITA Y CURSIVA***
-   + _** aEJEMPLO NEGRITA Y CURSIVA**_
+   + _** EJEMPLO NEGRITA Y CURSIVA**_
    + ___ EJEMPLO NEGRITA Y CURSIVA___
    
 ## **¿Cómo se crea un vínculo con Markdown?**
