@@ -8,7 +8,7 @@
 
 # Read 01: Aprendiendo Markdown
 ***¿Qué es Markdown?***
-![MARKDOWN|50](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/learn-markdown.jpg){width=40%}
+![MARKDOWN|50](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/learn-markdown.jpg =100x20)
 
 _**¿Por qué utilizamos Markdown?**_
 _**¿Qué símbolo creará un encabezado en Markdown?**_
