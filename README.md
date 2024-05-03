@@ -16,8 +16,8 @@ _Utilizamos Mardown por que es_ **acesible** _para cualquier dispositivo y tambi
 El simbolo para crear un encabezado es: **#**  
 
 EJEMPLOS:  
-*## ENCABEZADO
-*## ENCABEZADO 2
+* "## ENCABEZADO1"
+* "## ENCABEZADO 2"
 *### ENCABEZADO 3
 *#### ENCABEZADO 4
 +##### ENCABEZADO 5
