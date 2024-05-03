@@ -34,8 +34,8 @@ EJEMPLOS:
    + ___ EJEMPLO NEGRITA Y CURSIVA___
    
 ## **¿Cómo se crea un vínculo con Markdown?**
-El vinculo se crea de la siguiente manera[VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-
+El vinculo se crea de la siguiente manera [VINCULO](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+SINTAXIS:[nombre](link)
 ## **¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?**
 Los tres simboles es:
 * "-"
