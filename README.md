@@ -22,15 +22,15 @@ _ALGUNOS EJEMPLOS A CONTINUACION ⏬_
     + _El simbolo que se necesita es de un #_
 + **¿Cuántos necesitas para crear el título más pequeño?**
     + _El simbolo que se necesita es de 6 ######_
-      
 ## **Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?**
 1. Texto para poner en **NEGRITA** se utiliza: dos ** al inicio y al final del texto
 
           **EJEMPLO NEGRITA**
-3. Texto para poner en _CURSIVA_ se utiliza: dos __ al inicio y al final del texto
+   
+2. Texto para poner en _CURSIVA_ se utiliza: dos __ al inicio y al final del texto
    
        __EJEMPLO CURSIVA__
-5. Texto para poner en **negrita** y _cursiva_ se utiliza:
+3. Texto para poner en **negrita** y _cursiva_ se utiliza:
    + *** EJEMPLO NEGRITA Y CURSIVA***
    + _** EJEMPLO NEGRITA Y CURSIVA**_
    + ___ EJEMPLO NEGRITA Y CURSIVA___
