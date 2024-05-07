@@ -17,8 +17,9 @@
         + git add filename
         + git add *
    + comando para preparar    
-    + git status
+        + git status
 5. **¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
+   
          $ git commit -a
 7. **¿Cuál es el comando para enviar los archivos modificados a Github?**
    
