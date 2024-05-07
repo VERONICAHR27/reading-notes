@@ -23,4 +23,4 @@
          $ git commit -a
 7. **¿Cuál es el comando para enviar los archivos modificados a Github?**
    
-      $ git push origin master
+         $ git push origin master
