@@ -10,11 +10,12 @@
 3. **¿Qué es “clone” en Git?**
 
    _Es copiar todo los archivo de un proyecto a un nuevo directorio_
-CODIGO : git clon https://github.com/test
+   
+   **CODIGO:** git clon https://github.com/test
 3. **¿Cuál es el comando para rastrear y preparar archivos?**
     + git add filename
     + git agregar *
 4. **¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
-   $ git confirmar -a
+      $ git confirmar -a
 5. **¿Cuál es el comando para enviar los archivos modificados a Github?**
-   $ git push origen maestro
+      $ git push origen maestro
