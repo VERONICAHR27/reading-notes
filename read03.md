@@ -9,7 +9,7 @@
         + Control de versiones distribuidas  
 3. **¿Qué es “clone” en Git?**
 
-_Es copiar todo los archivo de un proyecto a un nuevo directorio_
+   _Es copiar todo los archivo de un proyecto a un nuevo directorio_
 CODIGO : git clon https://github.com/test
 3. **¿Cuál es el comando para rastrear y preparar archivos?**
     + git add filename
