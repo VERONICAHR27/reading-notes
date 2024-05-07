@@ -3,7 +3,7 @@
 1. **¿Qué es el control de versiones?**
    
    _Es un sistema que permite revisar varias versiones de un archivo registrando los cambios. Y de esta manera se puede hacer comparaciones de los cambios que se realiza en los archivos_
-   + TIPOS DE VERSIONES**
+   + **TIPOS DE VERSIONES**
         + Control de versiones locales
         + Control de versiones centralizado
         + Control de versiones distribuidas  
