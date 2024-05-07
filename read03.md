@@ -1,5 +1,5 @@
 # READ 03
-## VERSAMIENTO LOCAL Y REMOTO##
+## VERSAMIENTO LOCAL Y REMOTO
 1. **¿Qué es el control de versiones?**
    
    _Es un sistema que permite revisar varias versiones de un archivo registrando los cambios. Y de esta manera se puede hacer comparaciones de los cambios que se realiza en los archivos_
