@@ -13,12 +13,13 @@
    
    **CODIGO:** git clon https://github.com/test
 3. **¿Cuál es el comando para rastrear y preparar archivos?**
-   
-    + git add filename
-    + git agregar *
+   + comando para rastrear
+        + git add filename
+        + git add *
+   + comando para preparar    
+    + git status
 5. **¿Cuál es el comando para tomar una instantánea de los archivos modificados?**
-   
-      $ git confirmar -a
+         $ git commit -a
 7. **¿Cuál es el comando para enviar los archivos modificados a Github?**
    
-      $ git push origen maestro
+      $ git push origin master
