@@ -13,14 +13,14 @@
 
      + CSS interno: Se define dentro de la pagina principal, usando el comando <style>
 
-             <head>
+             **<head>
              <link rel="stylesheet" type="text/css" href="mystyle.css">
              <style>
                 h1 {
                 color: orange;
                 }
             </style>
-            </head>
+            </head>**
      + CSS en línea: Cuando se quiere aplicar un estilo unico a un solo elemento.
 
 3. **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>.**
