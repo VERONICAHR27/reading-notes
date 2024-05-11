@@ -44,7 +44,7 @@
             </body>
             </html>
 
-3. **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>**
+3. **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos "<p>"**
 
     _Esto seria insertando un CSS externo_
 
@@ -60,7 +60,7 @@
                 </body>
                 </html>
 
-    _**Para ello crearemos el archivo mystyle.css_**
+    ***Para ello crearemos el archivo mystyle.css_***
 
             p {
                 color: red;
