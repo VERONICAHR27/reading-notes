@@ -5,7 +5,7 @@
 ## En este sitio encontraras apuntes de las lecturas del codigo 102 que te serviran para absorver nuevos conocimientos
 # INDICE
 1. NOTAS DE LECTURA DEL CÓDIGO 102
-    + [Read 01: Aprendiendo Markdown](https://veronicahr27.github.io/reading-notes/102/archivo1.html)
+    + [Read 01: Aprendiendo Markdown](https://veronicahr27.github.io/reading-notes/Code 102-Introduccion al Desarrollo de Software/archivo1.html)
     + [Read 02: La computadora del Programador](https://veronicahr27.github.io/reading-notes/102/archivo2.html)
     + [Read 03: Versionamiento local y remoto](https://veronicahr27.github.io/reading-notes/102/archivo3.html)  
     + [Read 04: Estructura de paginas web con HTML](https://veronicahr27.github.io/reading-notes/102/archivo4.html)
