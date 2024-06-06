@@ -8,12 +8,12 @@
 2. **¿Cuántos niveles de encabezado existen en HTML?**
 
      _Los encabezados en htm son 6:_
-        + <h1></h1>
-        + <h2></h2>
-        + <h3></h3>
-        + <h4></h4>
-        + <h5></h5>
-        + <h6></h6>
+        + h1
+        + h2
+        + h3
+        + h4
+        + h5
+        + h6
 3. **¿Cuáles son algunos de los usos para los elementos "sup" y "sub"?**
 
     _Los elemento sup y sub que son superindice y subindice se usan para:_
@@ -23,7 +23,7 @@
      + Formulas Quimica
 4. **Al utilizar el elemento "abbr", qué atributo se debe añadir para proporcionar una ampliación del término?**
 
-     _El atributo que se debe agregar es "title", esto permite sabes sobre el termino que se va a tratae._
+     _El atributo que se debe agregar es "title", esto permite saber sobre el termino que se va a tratar._
 
 ## Aprende CSS**
 1. **¿De qué formas podemos añadir CSS a nuestro HTML?**
@@ -42,11 +42,11 @@
         _El selector es un elemento de html la cual indica que los estilos que se agregue a este selector debe aplicarse. En este ejemplo tenemos un selector "h2"._ 
     + **¿Qué componentes son declaraciones CSS?**
 
-          _Las propiedades y los valares, como el ejemplo: color en una propiedad y black es el valor que se asigna._
+        _Las propiedades y los valares, como el ejemplo: color en una propiedad y black es el valor que se asigna._
     + **¿Qué componentes se consideran propiedades?**
 
-                color: black;
-                padding: 5px;
+            color: black;
+            padding: 5px;
 ## **Aprende JS**
 1. **¿Qué tipo de dato es una secuencia de texto entre comillas simples?**
 
