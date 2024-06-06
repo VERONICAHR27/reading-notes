@@ -8,12 +8,12 @@
 2. **¿Cuántos niveles de encabezado existen en HTML?**
 
      _Los encabezados en htm son 6:_
-        + h1
-        + h2
-        + h3
-        + h4
-        + h5
-        + h6
+     + h1
+     + h2
+     + h3
+     + h4
+     + h5
+     + h6
 3. **¿Cuáles son algunos de los usos para los elementos "sup" y "sub"?**
 
     _Los elemento sup y sub que son superindice y subindice se usan para:_
