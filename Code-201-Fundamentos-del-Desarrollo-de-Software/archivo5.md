@@ -18,9 +18,10 @@
     + Colocar un titulo a las imagenes
 3. **Da un ejemplo en el que el elemento "figure" sería útil en un documento HTML.**
 
-    _Es util el elemnto figure cuando se qquiere colocar leyenda a las imagenes, ya que esto nos proporciona un contenedor semantico para las figuras para luego vincularlo con el pie de la imagen._
+    _Es util el elemnto figure cuando se quiere colocar leyenda a las imagenes, ya que esto nos proporciona un contenedor semantico para las figuras para luego vincularlo con el pie de la imagen._
 
 4. **Describe la diferencia entre una imágen gif y una imágen svg, imagina que se lo estás explicando a una persona mayor de tu comunidad.**
+
     _Una imagen gif es recomendable para imagenes y animaciones simples. Una imagen svg tiene un formato vectorial y es recomendable para elementos de interfaz de usuaria, iconos o oyras imagenes que necesitan precision._
 
 5. **¿Qué tipo de imagen usarías para mostrar una captura de pantalla en tu página web y por qué?**
@@ -37,6 +38,7 @@
     _Color, lo utilizaria para darle color alas letras que estan dentro del blog._   
      
 3. **¿Qué debes tener en cuenta al escoger tipos de letra para un documento HTML?**
+
     _Se debe tener en cuenta que el tipo de letra que se seleccione esten disponibles en todos los ordenadores, ya que si no esta disponible, al final solo mostrara el tipo de letra Arial. Algunos tipos de letras seguros son:_
     + Arial
     + Courier New

@@ -18,7 +18,7 @@
     + [Conceptos básicos de HTML, CSS y JS](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo2.html)
     + [Read 03](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo3.html)  
     + [Read 04](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo4.html)
-    + [Read 05](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo5.html)
+    + [Lecturas: Imágenes, Color, Texto](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo5.html)
     + [Read 06](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo6.html)
     + [Read 07](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo7.html)
     + [Read 08](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo8.html)
