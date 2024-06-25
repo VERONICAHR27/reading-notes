@@ -1,9 +1,11 @@
 # Read 07: Programación orientada a objetos, Tablas en HTML
 ***Los temas tratados en la lectura numero 7 nos permiten tener conocimiento del nuevo tema de funciones construcor, caracteristicas mas avanzadas para implementar tablas y de esta manera tenemos nocion de como funciona las funciones y como implementar tablas para que todos tenga acceso. Esto nos ayuda  a tener conocimientos previos a la clase 7 que se va a desarrollar***
+
 ## **Domain Modeling**
 1. **Explica por qué necesitamos los modelos de dominio.**
 
     _Se necesita los modelos de dominio porque esto permite verificar y validar la comprension de un problema especifico entre varias partes interesadas. _
+
 ## **Conceptos básicos de las tablas HTML**
 1. **¿Por qué no se debe utilizar tablas para los layout de página?**
 
