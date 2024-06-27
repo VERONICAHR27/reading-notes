@@ -1,6 +1,6 @@
 # Read 08:CSS: Layout
 ***Los temas tratados en la lectura numero 8 nos enseña a utilizar diversos elemnetos de flexbox para poder crear compaginaciones web y a la vez  nos permite tener conocimientos previos a la clase 8 que se va a desarrollar en clase***
-## ** Flexbox**
+## **Flexbox**
 1. **Flexbox está diseñado para contenido unidensional. Explica lo que significa esto.**
 
     _El flexbos esta diseñado para contenido unidimensional, ya que exite diversos elementos que tienen diferentes tamaños y el flexbox permite devolver una distribucion para cada uno de ellos_
@@ -22,7 +22,7 @@
 
      _Este tema de css Layout - Flexbox. nos permitira aprender a usar el sistema de compaginacion con cada uno de los elementos del flexbox y asi crear campaginaciones web._   
 
-## **MISCELANES**
+## **REPASO**
 1. **Learn CSS - Layout**
 
-    _Aprender css - layout nos permite resolver diversos problemas de diseño en un eje vertical, horizontal o incluso en ambos. Para elegir el metodo de diseño se debe tener en cuenta cada una de las caracteristicas de los elementos para que pueda ser accesible a todas las personas. _
+    _Aprender css - layout nos permite resolver diversos problemas de diseño en un eje vertical, horizontal o incluso en ambos. Para elegir el metodo de diseño se debe tener en cuenta cada una de las caracteristicas de los elementos para que pueda ser accesible a todas las personas._
