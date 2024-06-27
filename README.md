@@ -27,6 +27,6 @@
     + [Read 10: Depuración y Manejo de Errores ](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo10.html)
     + [Read 11: Audio y Video en HTML; Revisión de Modelos de Dominio](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo11.html)
     + [Read 12: Canvas y ChartJS](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo12.html)
-    + [Read : Introducción a la Persistencia con Local Storage](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo13.html)
+    + [Read 13 : Introducción a la Persistencia con Local Storage](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo13.html)
     + [Read 14: Documentación, Selección de Proyectos y Flujo de Trabajo en Equipo](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo14.html)
     + [Read 15: Repaso del Curso y Vista Previa del Code 301](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo15.html)
