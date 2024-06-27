@@ -16,7 +16,8 @@
 ## **CSS Layout - Flexbox**
 1. **¿Cuáles son algunas de las ventajas de utilizar flexbox sobre float?**
 
-    _Normal flow, se refiere cuando no se aplica ningun CSS que cambie la forma_
+    _Las ventajas de utilizarlo es que permite que la alineación, realizar la compaginación y tambien permite distribuir los elementos dentro de la pagina._
+
 
 2. **¿Cómo es que este tema se conecta con tus metas a largo plazo?**
 
