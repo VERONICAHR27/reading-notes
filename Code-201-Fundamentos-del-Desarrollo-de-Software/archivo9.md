@@ -15,6 +15,7 @@
     + label: Es importante por que nos permite reconocer que dtao ingresar.
     + textarea:Permite definir un valor predeterminado para un elemento.
     + button: Permite que el usuario envie sus datos una vez completado el formulario
+
 ## **Aprende JS**
 1. **¿Cómo describirías los event a un amigo sin conocimiento técnico?**
 
@@ -27,7 +28,7 @@
   
 3. **Describe el objeto event. ¿Por qué el target dentro del objeto event es útil?**
 
-    _Es util por que _
+    _Es util por que hace referencia al elemento el cual ocurrio el evento_
     
 4. **¿Cuál es la diferencia entre event bubbling y event capturing?**
 
@@ -41,6 +42,7 @@ _En la primera lectura nos muestra sobre las funcionalidades de los controles de
 + checkbox
 + radio
 + submit
+
 _En la segunda lectura nos muestra sobre la referencia de eventos y nos muestra una lista de eventos que se pueden enviar como:_
 + eventos estandar
 + eventos no estandar
