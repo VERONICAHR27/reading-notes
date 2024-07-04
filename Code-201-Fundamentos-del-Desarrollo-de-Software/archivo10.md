@@ -1,4 +1,4 @@
-# Read 09: Depuración
+# Read 10: Depuración
 ***Los temas tratados en la lectura numero 10 nos permite analizar el codigo para poder solucionar los problemas que podemos encontrar en el desarrollo.***
 
 ## **¿Qué ha salido mal? Corrigiendo JavaScript.**
@@ -21,7 +21,7 @@
 
 2. **Define qué es un breakpoint.**
 
-    _Es un punto de interrupcion en el codigo, y pone en pausa el codigo para poder analizar donde esta el error y luego poder hacer una depuracion.
+    _Es un punto de interrupcion en el codigo, y pone en pausa el codigo para poder analizar donde esta el error y luego poder hacer una depuracion._
   
 3. **¿Qué es el call stack?**
 
