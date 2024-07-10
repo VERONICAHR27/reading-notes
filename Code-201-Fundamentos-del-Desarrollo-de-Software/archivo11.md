@@ -10,7 +10,7 @@
     + src: Contiene la ruta del video que se quiere mostrar, la ruta puede ser de forma remota o local.
     + controls: Permite controlar la reproducion de los videos.
 
-3. **¿Por qué es importante tener contenido de respaldo en el elemento <video>?**
+3. **¿Por qué es importante tener contenido de respaldo en el elemento "video"?**
 
     _Es importante ya que no todos los equipos no pueden soportar el video que se suba, esto mayormente se puede dar en equipos antiguos._
 
