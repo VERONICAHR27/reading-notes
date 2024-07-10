@@ -14,7 +14,7 @@
 
     _Es importante ya que no todos los equipos no pueden soportar el video que se suba, esto mayormente se puede dar en equipos antiguos._
 
-4. **Escribe una historia corta en donde <audio> y <video> son personajes.**
+4. **Escribe una historia corta en donde "audio" y "video" son personajes.**
 
     _En un salon de clases la maestra trata sobre el tema de la guerra mundial y para muchos estudiantes esto se les complica entender por que la maestra solo lee y cuenta lo que sucedio, sin embargo al darse cuenta que no captaba la atencion de los niños decidio utilizar dos elementos fundamentales como imagenes y videos, mediante ello los estudiantes puedieron entender mejor como sucedio la segunda guerra mundial._
 
