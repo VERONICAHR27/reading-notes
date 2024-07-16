@@ -1,4 +1,4 @@
-# Read 12:  Audio, video, imágenes
+# Read 12:  Chart.js, Canvas
 ***Los temas tratados en la lectura numero 12 nos permite insertar graficos a nuestra pagina web, teniendo en cuenta los aspectos basicos del html y javaScript.***
 
 ## **Canvas - una introducción Uso básico de Canvas**
