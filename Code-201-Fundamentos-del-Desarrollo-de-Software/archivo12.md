@@ -2,11 +2,11 @@
 ***Los temas tratados en la lectura numero 12 nos permite insertar graficos a nuestra pagina web, teniendo en cuenta los aspectos basicos del html y javaScript.***
 
 ## **Canvas - una introducción Uso básico de Canvas**
-1. **¿Qué es lo que el '<canvas>' le permite lograr al desarrollador?**
+1. **¿Qué es lo que el canvas le permite lograr al desarrollador?**
 
     _El canvas permite insertar dibujos a nuestra pagina, puede ser en 2d y 3d._ 
 
-2. **¿Cuál es la importancia de cerrar la etiqueta '</canvas>'?**
+2. **¿Cuál es la importancia de cerrar la etiqueta /canvas ?**
 
     _Para la etiqueta canvas se requiere el cierre de etiqueta para asegunos de la compatibilidad_
 
@@ -36,5 +36,4 @@
       _Puede ayudar a que los usuarios puedan interectuar mas con nuestra pagina y visulizar mejor los datos que se puedan presentar._
      
 ## **Dibujando formas con canvas Applying Style and Colors - Canvas API- Dibujar texto - Canvas API**
-
-    _Con la etiqueta canvas se puede dibujar diferentes formas como rectangulos, triangulos, lineas, arcos y curvas y a cada uno de ellas se puede poner un estilo. Por otro lado tambien se puede dibujar texto en él a través de una API experimental de Mozilla._
+ _Con la etiqueta canvas se puede dibujar diferentes formas como rectangulos, triangulos, lineas, arcos y curvas y a cada uno de ellas se puede poner un estilo. Por otro lado tambien se puede dibujar texto en él a través de una API experimental de Mozilla._
