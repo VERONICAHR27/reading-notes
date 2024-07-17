@@ -8,7 +8,8 @@
 
 2. **¿Qué información no se puede guardar en el local storage?**
 
-    _Solo se puede guardar string_
+    _No se puede guardar informacion con gran catidad de datos es limitado el tamaño, datos como contraseñas, archivos multimedias como audios, videos, etc._
+   
 
 3. **¿Qué tipo de datos se pueden guardar en el local storage? ¿Cómo puedes convertirlo a ese tipo de archivo antes de guardarlo?**
 
