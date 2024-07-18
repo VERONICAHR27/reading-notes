@@ -57,5 +57,5 @@
 
       _A travez de poder aplicar cada uno de ellos haremos que nuestras paginas que implementemos tengan mayor audiencia y nos generen beneficios para lo que esta prpuesta la pagina._
      
-## **Pure CSS Bounce Animation - 6 Buttons animated - CSS3 Animations: Keyframes **
+## **Pure CSS Bounce Animation - 6 Buttons animated - CSS3 Animations: Keyframes**
  _En cada uno de estos apartados nos muestran diversos juegos para poder aplicar lo aprendido, ademas de ello al desarrollar cada uno de estos juegos nos ayuda a reforzar algunos temas que no estaba claro y asi tener un mejor dominio de todo._
