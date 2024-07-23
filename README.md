@@ -30,5 +30,4 @@
     + [Read 13 : Introducción a la Persistencia con Local Storage](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo13.html)
     + [Read 14: Documentación, Selección de Proyectos y Flujo de Trabajo en Equipo](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo14.html)
     + [Read 14.1: Seguridad Psicologica](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo14-1.html)
-    + 
     + [Read 15: Repaso del Curso y Vista Previa del Code 301](https://veronicahr27.github.io/reading-notes/Code-201-Fundamentos-del-Desarrollo-de-Software/archivo15.html)

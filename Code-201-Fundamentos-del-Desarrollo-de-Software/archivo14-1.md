@@ -13,5 +13,6 @@
     _En el area de soprte tecnico en campo, se puede definir que era un equipo que tenia seguridad psicologica, ya que cada miembro del equipo podia expresar lo que sentia y dejar que cada integrante aporte una idea para poder solucionar los diversos inconvenientes que se presentaban. En cambio por otro el area de soporte tecnico en oficina, tenia dificultades con la comunicacion y cada uno resolvia los inconvenietes de manera individual y si se presentaba algun problema el jefe de area responsabilizada a la peersona con el cual el cliente mencionaba._
 
 3. **¿Qué impacto tuvieron los equipos que trabajan con un alto grado de seguridad psicológica en su empresa y los miembros de su equipo?**
+
     _El impacto que pueden llegar a tener en la empresa, es que esten en un ambiente laboral saludable, poder expresar las ideas que uno tiene, aprender a escuchar al resto y entender como puede sentirse la otra parte._
     _Respectos a los miembros del equipo la seguridad psicologico permite que cada uno este mas comodo desarrollando sus actividades, motivados e impulsados a que la dia a dia las cosas mejoren para el bien de todos._
